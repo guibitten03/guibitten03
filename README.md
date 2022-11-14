@@ -1,4 +1,4 @@
-## Olá viajante, eu sou o Guiherme Bittencourt, programador, desenvolvedor e consultor de dados!
+## Salve turma, eu sou o Guiherme Bittencourt. Trabalho com programação, marketing e desenvolvimento pessoal!
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=guibitten03&theme=dark&show_icons=true" />
