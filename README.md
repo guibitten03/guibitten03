@@ -1,4 +1,4 @@
-## Salve turma, eu sou o Guiherme Bittencourt. Trabalho com programação, marketing e desenvolvimento pessoal!
+## Hi People. I'm Guilherme Bittencourt. I'm a Data Analizer and Data Scientist! But I like do somethings in Software Enginieering! 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=guibitten03&theme=dark&show_icons=true" />
