@@ -1,4 +1,4 @@
-## Hi People. I'm Guilherme Bittencourt. I'm a Data Analizer and Data Scientist! But I like do somethings in Software Enginieering! 
+## Tomando decisões inteligentes com base em dados! Sou cientista de dados especializado em análise de dados e redes neurais artificiais. Apaixonado por desvendar insights a partir de grandes conjuntos de dados para ajudar empresas a alcançarem seus objetivos. 📊🧠  
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=guibitten03&theme=dark&show_icons=true" />
