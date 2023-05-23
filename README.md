@@ -1,4 +1,4 @@
-## Tomando decisões inteligentes com base em dados! Sou cientista de dados especializado em análise de dados e redes neurais artificiais. Apaixonado por desvendar insights a partir de grandes conjuntos de dados para ajudar empresas a alcançarem seus objetivos. 📊🧠  
+## Making smart decisions based on data! I am a data scientist specialized in data analysis and artificial neural networks. Passionate about uncovering insights from large datasets to help businesses achieve their objectives.. 📊🧠  
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=guibitten03&theme=dark&show_icons=true" />
@@ -17,6 +17,7 @@
   
   <img align="center" alt="Gui-Django" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" />
           
+  <img align="center" alt="Gui-OpenCV" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original-wordmark.svg" />
           
 </div>
   
